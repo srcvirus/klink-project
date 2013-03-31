@@ -20,7 +20,7 @@ echo $nodecount >> nodes
 for machine in `cat pssh_nodes`
 do
 	ip=`host $machine | egrep '[[:digit:]]{1,3}\.[[:digit:]]{1,3}\.[[:digit:]]{1,3}\.[[:digit:]]{1,3}' | cut -d' ' -f 4`
-	echo "$machine 55231 $ip" >> nodes_temp
+	echo "$machine 45231 $ip" >> nodes_temp
 done
 cat nodes_temp | awk '{len=split($1,array,"."); print $1, $2, $3, array[len-1] map[array[len-1]]++;}' >> nodes
 
