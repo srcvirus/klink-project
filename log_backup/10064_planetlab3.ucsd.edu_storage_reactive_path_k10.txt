@@ -1,0 +1,2 @@
+planetlab3.ucsd.edu 0.000000	0.013158	10	0	0	76
+planetlab3.ucsd.edu 0.702703	0.013158	10	0	74	76

@@ -1,0 +1,2 @@
+planetlab16.millennium.berkeley.edu 0.000000	0.018868	5	0	0	106
+planetlab16.millennium.berkeley.edu 0.500000	0.018868	5	0	106	106

@@ -1,0 +1,16 @@
+node1.planetlab.mathcs.emory.edu_plab4.eece.ksu.edu_1192 2	23	22.850000	S	6721	160
+node1.planetlab.mathcs.emory.edu_plab4.eece.ksu.edu_1182 2	23	22.850000	S	6689	160
+planetlab-1.usask.ca_plab4.eece.ksu.edu_936 1	11	19.650000	S	6666	1152
+planetlab-1.usask.ca_plab4.eece.ksu.edu_940 1	11	19.650000	S	6674	1152
+planetlab-1.usask.ca_plab4.eece.ksu.edu_946 1	11	19.650000	S	6680	1152
+planetlab-1.usask.ca_plab4.eece.ksu.edu_949 1	11	19.650000	S	6682	1152
+planetlab-1.usask.ca_plab4.eece.ksu.edu_954 1	11	19.650000	S	6683	1152
+planetlab-1.usask.ca_plab4.eece.ksu.edu_958 1	11	19.650000	S	6686	1152
+planetlab-1.usask.ca_plab4.eece.ksu.edu_1005 1	11	19.650000	S	6714	1152
+planet6.cs.ucsb.edu_plab4.eece.ksu.edu_3800 2	21	44.200000	S	6660	1024
+planet6.cs.ucsb.edu_plab4.eece.ksu.edu_3814 2	21	44.200000	S	6691	1024
+planet6.cs.ucsb.edu_plab4.eece.ksu.edu_3869 2	21	44.200000	S	6720	1024
+planet6.cs.ucsb.edu_plab4.eece.ksu.edu_3873 2	21	44.200000	S	6724	1024
+planet6.cs.ucsb.edu_plab4.eece.ksu.edu_3875 2	21	44.200000	S	6725	1024
+planet6.cs.ucsb.edu_plab4.eece.ksu.edu_3880 2	21	44.200000	S	6726	1024
+planet6.cs.ucsb.edu_plab4.eece.ksu.edu_3883 2	21	44.200000	S	6732	1024

@@ -1,0 +1,7 @@
+scspc394.cs.uwaterloo.ca 0.000000	0.000000	0	0	0	1
+scspc394.cs.uwaterloo.ca 0.000000	0.000000	0	0	0	1
+scspc394.cs.uwaterloo.ca 0.000000	0.000000	0	0	0	1
+scspc394.cs.uwaterloo.ca 0.000000	0.000000	0	0	0	1
+scspc394.cs.uwaterloo.ca 0.000000	0.000000	0	3	0	3
+scspc394.cs.uwaterloo.ca 0.000000	0.000000	0	0	0	1
+scspc394.cs.uwaterloo.ca 0.000000	0.000000	0	0	0	1

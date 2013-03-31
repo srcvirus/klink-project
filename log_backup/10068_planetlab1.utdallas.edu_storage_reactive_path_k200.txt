@@ -1,0 +1,4 @@
+planetlab1.utdallas.edu 0.000000	0.000000	0	1	0	5
+planetlab1.utdallas.edu 0.000000	0.000000	27	5	0	83
+planetlab1.utdallas.edu 0.000000	0.000000	27	5	3	83
+planetlab1.utdallas.edu 0.890625	0.000000	27	5	64	83

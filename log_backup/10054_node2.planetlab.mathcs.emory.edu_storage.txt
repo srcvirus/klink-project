@@ -1,0 +1,1 @@
+node2.planetlab.mathcs.emory.edu 0.060185	0.000000	0	0

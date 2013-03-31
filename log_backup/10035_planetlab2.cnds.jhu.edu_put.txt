@@ -1,0 +1,10 @@
+planetlab6.cs.cornell.edu_planetlab2.cnds.jhu.edu_1145 1	11	10.000000	93281	288
+planetlab6.cs.cornell.edu_planetlab2.cnds.jhu.edu_1238 1	11	10.000000	93385	288
+planetlab3.eecs.northwestern.edu_planetlab2.cnds.jhu.edu_1361 2	21	26.100000	93258	800
+planetlab3.eecs.northwestern.edu_planetlab2.cnds.jhu.edu_1371 2	21	26.100000	93344	800
+planetlab3.eecs.northwestern.edu_planetlab2.cnds.jhu.edu_1375 2	21	26.100000	93397	800
+planetlab6.cs.cornell.edu_planetlab2.cnds.jhu.edu_1335 1	11	10.000000	93469	288
+planetlab6.cs.cornell.edu_planetlab2.cnds.jhu.edu_1339 1	11	10.000000	93473	288
+planetlab6.cs.cornell.edu_planetlab2.cnds.jhu.edu_1371 1	11	10.000000	93505	288
+planetlab6.cs.cornell.edu_planetlab2.cnds.jhu.edu_1402 1	11	10.000000	93536	288
+planetlab6.cs.cornell.edu_planetlab2.cnds.jhu.edu_1405 1	11	10.000000	93537	288

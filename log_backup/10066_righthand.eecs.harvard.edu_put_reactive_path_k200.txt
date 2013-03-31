@@ -1,0 +1,11 @@
+node1.planetlab.mathcs.emory.edu_righthand.eecs.harvard.edu_547 2	24	21.450000	6757	160
+node1.planetlab.mathcs.emory.edu_righthand.eecs.harvard.edu_543 2	24	21.450000	6752	160
+node1.planetlab.mathcs.emory.edu_righthand.eecs.harvard.edu_544 2	24	21.450000	6753	160
+node1.planetlab.mathcs.emory.edu_righthand.eecs.harvard.edu_548 2	24	21.450000	6755	160
+node1.planetlab.mathcs.emory.edu_righthand.eecs.harvard.edu_553 2	24	21.450000	6769	160
+node1.planetlab.mathcs.emory.edu_righthand.eecs.harvard.edu_551 2	24	21.450000	6761	160
+planetlab2.acis.ufl.edu_righthand.eecs.harvard.edu_162 3	35	48.900000	6799	1600
+ebb.colgate.edu_righthand.eecs.harvard.edu_380 4	58	80.300000	6816	1536
+mtuplanetlab2.cs.mtu.edu_righthand.eecs.harvard.edu_784 2	19	20.450000	6756	1024
+mtuplanetlab2.cs.mtu.edu_righthand.eecs.harvard.edu_790 2	19	20.450000	6775	1024
+planetlab-2.cs.uh.edu_righthand.eecs.harvard.edu_495 4	45	65.425000	6810	1152

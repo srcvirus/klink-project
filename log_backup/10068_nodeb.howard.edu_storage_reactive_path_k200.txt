@@ -1,0 +1,5 @@
+nodeb.howard.edu 0.000000	0.103448	17	0	0	87
+nodeb.howard.edu 0.000000	0.130435	19	0	0	92
+nodeb.howard.edu 0.000000	0.130435	20	0	0	92
+nodeb.howard.edu 0.000000	0.130435	21	0	0	92
+nodeb.howard.edu 1.000000	0.130435	21	0	59	92

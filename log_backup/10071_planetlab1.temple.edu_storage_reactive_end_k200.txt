@@ -1,0 +1,5 @@
+planetlab1.temple.edu 0.000000	0.513966	15	4	0	179
+planetlab1.temple.edu 0.000000	0.513966	18	4	0	179
+planetlab1.temple.edu 0.000000	0.600877	18	5	0	228
+planetlab1.temple.edu 0.951613	0.600877	18	5	62	228
+planetlab1.temple.edu 0.907692	0.600877	18	5	65	228

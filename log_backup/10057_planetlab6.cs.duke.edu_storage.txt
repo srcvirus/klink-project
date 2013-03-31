@@ -1,0 +1,2 @@
+planetlab6.cs.duke.edu 0.000000	0.009091	5	79
+planetlab6.cs.duke.edu 0.014608	0.009091	5	79

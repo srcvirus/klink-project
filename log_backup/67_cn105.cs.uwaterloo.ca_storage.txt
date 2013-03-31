@@ -1,0 +1,2 @@
+cn105.cs.uwaterloo.ca -nan	0.000000	2	4
+cn105.cs.uwaterloo.ca 2.666667	0.000000	2	4

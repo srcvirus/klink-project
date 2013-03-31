@@ -1,0 +1,4 @@
+planetlab6.flux.utah.edu 0.000000	0.048896	10	58
+planetlab6.flux.utah.edu 0.000000	0.048249	10	74
+planetlab6.flux.utah.edu 33.000000	0.048249	10	74
+planetlab6.flux.utah.edu 0.028765	0.048249	10	74

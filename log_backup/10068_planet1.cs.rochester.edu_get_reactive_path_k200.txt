@@ -1,0 +1,4 @@
+planetlab1.tsuniv.edu_planet1.cs.rochester.edu_1069 1	21	27.300000	S	7346	1280
+planet6.cs.ucsb.edu_planet1.cs.rochester.edu_979 1	13	37.050000	S	7352	544
+planetlab1.cs.pitt.edu_planet1.cs.rochester.edu_982 1	12	10.050000	S	7369	288
+planetlabtwo.ccs.neu.edu_planet1.cs.rochester.edu_811 1	10	18.800000	S	7350	2080

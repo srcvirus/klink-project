@@ -1,0 +1,5 @@
+planetlab2.umassd.edu 0.000000	0.556548	10	46	0	336
+planetlab2.umassd.edu 0.000000	0.519444	10	70	0	360
+planetlab2.umassd.edu 0.000000	0.518006	10	71	0	361
+planetlab2.umassd.edu 0.406250	0.518006	10	71	128	361
+planetlab2.umassd.edu 0.403101	0.518006	10	71	129	361

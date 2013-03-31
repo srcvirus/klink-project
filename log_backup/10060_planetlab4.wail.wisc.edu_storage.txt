@@ -1,0 +1,6 @@
+planetlab4.wail.wisc.edu 0.000000	0.027046	10	586
+planetlab4.wail.wisc.edu 0.000000	0.027046	10	601
+planetlab4.wail.wisc.edu 0.000000	0.027046	10	602
+planetlab4.wail.wisc.edu 0.000000	0.027046	10	603
+planetlab4.wail.wisc.edu 0.076709	0.027046	10	603
+planetlab4.wail.wisc.edu 0.075653	0.027046	10	603

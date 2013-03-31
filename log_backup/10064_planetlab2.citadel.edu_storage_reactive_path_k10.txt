@@ -1,0 +1,4 @@
+planetlab2.citadel.edu 0.000000	0.000000	0	0	0	6
+planetlab2.citadel.edu 0.000000	0.000000	10	0	0	82
+planetlab2.citadel.edu 0.692308	0.000000	9	0	78	82
+planetlab2.citadel.edu 0.675000	0.000000	10	0	80	82

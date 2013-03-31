@@ -1,0 +1,2 @@
+ebb.colgate.edu 0.000000	0.006289	5	0
+ebb.colgate.edu 0.006289	0.006289	5	0

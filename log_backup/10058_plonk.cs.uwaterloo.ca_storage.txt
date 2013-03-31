@@ -1,0 +1,5 @@
+plonk.cs.uwaterloo.ca 0.000000	0.007712	14	42
+plonk.cs.uwaterloo.ca 0.000000	0.011013	17	83
+plonk.cs.uwaterloo.ca 0.000000	0.011013	18	83
+plonk.cs.uwaterloo.ca 0.000000	0.010989	18	84
+plonk.cs.uwaterloo.ca 0.459119	0.010989	18	84

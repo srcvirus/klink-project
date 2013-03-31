@@ -1,0 +1,10 @@
+pl2.eecs.utk.edu_roam2.cs.ou.edu_3722 3	25	54.461500	426	96
+ricepl-2.cs.rice.edu_roam2.cs.ou.edu_5375 2	13	7.564500	102	32
+ricepl-2.cs.rice.edu_roam2.cs.ou.edu_5643 2	13	7.564500	294	32
+ricepl-2.cs.rice.edu_roam2.cs.ou.edu_5757 2	13	7.564500	326	32
+ricepl-2.cs.rice.edu_roam2.cs.ou.edu_6133 2	13	7.564500	354	32
+ricepl-2.cs.rice.edu_roam2.cs.ou.edu_6145 2	13	7.564500	356	32
+ricepl-2.cs.rice.edu_roam2.cs.ou.edu_6147 2	13	7.564500	358	32
+ricepl-2.cs.rice.edu_roam2.cs.ou.edu_6152 2	13	7.564500	359	32
+ricepl-2.cs.rice.edu_roam2.cs.ou.edu_6243 2	13	7.564500	366	32
+ricepl-2.cs.rice.edu_roam2.cs.ou.edu_6360 2	13	7.564500	374	32

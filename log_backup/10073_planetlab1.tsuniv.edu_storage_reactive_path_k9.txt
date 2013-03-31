@@ -1,0 +1,4 @@
+planetlab1.tsuniv.edu 0.000000	0.000000	0	29	0	50
+planetlab1.tsuniv.edu 0.000000	0.010309	9	84	0	194
+planetlab1.tsuniv.edu 0.000000	0.010309	9	84	11	194
+planetlab1.tsuniv.edu 0.218085	0.010309	8	84	188	194

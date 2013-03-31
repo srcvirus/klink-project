@@ -1,0 +1,5 @@
+planetlab2.cs.du.edu 0.000000	0.093750	9	5	0	96
+planetlab2.cs.du.edu 0.000000	0.093750	8	5	0	96
+planetlab2.cs.du.edu 0.000000	0.093750	9	5	0	96
+planetlab2.cs.du.edu 0.000000	0.093750	9	5	15	96
+planetlab2.cs.du.edu 0.679487	0.093750	9	5	78	96

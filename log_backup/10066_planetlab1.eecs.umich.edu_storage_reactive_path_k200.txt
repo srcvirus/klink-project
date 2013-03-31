@@ -1,0 +1,1 @@
+planetlab1.eecs.umich.edu 0.948718	0.787037	23	3	78	108

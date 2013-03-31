@@ -1,0 +1,2 @@
+planetlab05.cs.washington.edu 0.000000	0.444816	10	4	0	299
+planetlab05.cs.washington.edu 0.538462	0.444816	10	4	130	299

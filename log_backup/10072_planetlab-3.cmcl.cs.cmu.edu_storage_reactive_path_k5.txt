@@ -1,0 +1,2 @@
+planetlab-3.cmcl.cs.cmu.edu 0.000000	0.000000	5	0	0	64
+planetlab-3.cmcl.cs.cmu.edu 0.671875	0.000000	5	0	64	64

@@ -1,0 +1,10 @@
+planetlab3.eecs.northwestern.edu_planetlab16.millennium.berkeley.edu_1369 2	34	57.200000	68605	800
+planetlab16.millennium.berkeley.edu_planetlab16.millennium.berkeley.edu_224 0	0	0.000000	68765	2592
+planetlab1.rutgers.edu_planetlab16.millennium.berkeley.edu_1266 1	19	43.150000	68632	544
+planetlab1.rutgers.edu_planetlab16.millennium.berkeley.edu_1351 1	19	43.150000	68647	544
+planetlab1.rutgers.edu_planetlab16.millennium.berkeley.edu_1357 1	19	43.150000	68648	544
+planetlabtwo.ccs.neu.edu_planetlab16.millennium.berkeley.edu_983 1	14	43.650000	68935	2848
+planetlab1.rutgers.edu_planetlab16.millennium.berkeley.edu_1444 1	19	43.150000	68656	544
+planetlab1.rutgers.edu_planetlab16.millennium.berkeley.edu_1477 1	19	43.150000	68664	544
+planetlab1.rutgers.edu_planetlab16.millennium.berkeley.edu_1479 1	19	43.150000	68665	544
+planetlab1.rutgers.edu_planetlab16.millennium.berkeley.edu_1482 1	19	43.150000	68666	544

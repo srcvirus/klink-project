@@ -1,0 +1,3 @@
+aguila1.lsi.upc.edu 0.000000	0.000000	8	0	0	0
+aguila1.lsi.upc.edu 0.000000	0.238636	8	4	0	176
+aguila1.lsi.upc.edu 0.441176	0.238636	8	4	102	176

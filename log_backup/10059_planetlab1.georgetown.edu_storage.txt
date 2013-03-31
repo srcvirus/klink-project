@@ -1,0 +1,5 @@
+planetlab1.georgetown.edu 0.000000	0.063073	8	625
+planetlab1.georgetown.edu 0.000000	0.059848	9	670
+planetlab1.georgetown.edu 0.000000	0.059848	12	670
+planetlab1.georgetown.edu 0.000000	0.069815	12	670
+planetlab1.georgetown.edu 0.060565	0.069744	12	670

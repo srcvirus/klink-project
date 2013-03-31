@@ -1,0 +1,4 @@
+pl1.csl.utoronto.ca 0.000000	0.003876	10	5
+pl1.csl.utoronto.ca 0.520833	0.003876	10	5
+pl1.csl.utoronto.ca 0.578512	0.003876	10	5
+pl1.csl.utoronto.ca 0.573770	0.003876	10	5

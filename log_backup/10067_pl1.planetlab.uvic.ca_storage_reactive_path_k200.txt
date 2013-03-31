@@ -1,0 +1,3 @@
+pl1.planetlab.uvic.ca 0.000000	0.047059	20	0	0	85
+pl1.planetlab.uvic.ca 0.000000	0.047059	21	0	0	85
+pl1.planetlab.uvic.ca 0.000000	0.047059	22	0	0	85

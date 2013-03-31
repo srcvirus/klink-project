@@ -1,0 +1,4 @@
+planetlab3.cs.columbia.edu 0.000000	0.000000	7	0	0	0
+planetlab3.cs.columbia.edu 0.000000	0.000000	8	0	0	0
+planetlab3.cs.columbia.edu 0.000000	0.431655	8	5	0	139
+planetlab3.cs.columbia.edu 0.476190	0.431655	7	5	105	139

@@ -1,0 +1,10 @@
+plgmu1.ite.gmu.edu_plgmu1.ite.gmu.edu_83 0	0	0.000000	13378	320
+plgmu1.ite.gmu.edu_plgmu1.ite.gmu.edu_149 0	0	0.000000	13442	320
+plgmu1.ite.gmu.edu_plgmu1.ite.gmu.edu_213 0	0	0.000000	13504	320
+plgmu1.ite.gmu.edu_plgmu1.ite.gmu.edu_218 0	0	0.000000	13507	320
+plgmu1.ite.gmu.edu_plgmu1.ite.gmu.edu_216 0	0	0.000000	13506	320
+plgmu1.ite.gmu.edu_plgmu1.ite.gmu.edu_222 0	0	0.000000	13510	320
+plgmu1.ite.gmu.edu_plgmu1.ite.gmu.edu_227 0	0	0.000000	13514	320
+plgmu1.ite.gmu.edu_plgmu1.ite.gmu.edu_236 0	0	0.000000	13522	320
+plgmu1.ite.gmu.edu_plgmu1.ite.gmu.edu_253 0	0	0.000000	13538	320
+planetlab-5.eecs.cwru.edu_plgmu1.ite.gmu.edu_7 3	38	90.100000	13598	3200

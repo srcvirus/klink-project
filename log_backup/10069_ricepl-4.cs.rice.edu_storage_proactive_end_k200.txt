@@ -1,0 +1,4 @@
+ricepl-4.cs.rice.edu 0.000000	0.000000	6	56	0	116
+ricepl-4.cs.rice.edu 0.000000	0.000000	6	80	0	142
+ricepl-4.cs.rice.edu 0.057377	0.000000	6	80	122	142
+ricepl-4.cs.rice.edu 0.050360	0.000000	6	80	139	142

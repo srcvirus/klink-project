@@ -1,0 +1,4 @@
+plab4.eece.ksu.edu 0.000000	0.008065	8	0	0	124
+plab4.eece.ksu.edu 0.000000	0.008065	16	0	0	124
+plab4.eece.ksu.edu 0.000000	0.008065	17	0	0	124
+plab4.eece.ksu.edu 0.964286	0.066667	19	0	84	135

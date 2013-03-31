@@ -1,0 +1,4 @@
+righthand.eecs.harvard.edu 0.000000	0.211382	16	0
+righthand.eecs.harvard.edu 0.000000	0.211382	18	0
+righthand.eecs.harvard.edu 0.000000	0.211382	19	0
+righthand.eecs.harvard.edu 1.000000	0.211382	19	0

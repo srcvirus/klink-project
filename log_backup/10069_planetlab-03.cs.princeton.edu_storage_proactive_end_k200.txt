@@ -1,0 +1,4 @@
+planetlab-03.cs.princeton.edu 0.000000	0.000000	3	303	0	388
+planetlab-03.cs.princeton.edu 0.000000	0.000000	3	564	0	688
+planetlab-03.cs.princeton.edu 0.000000	0.000000	3	564	6	688
+planetlab-03.cs.princeton.edu 0.004785	0.000000	3	564	627	688

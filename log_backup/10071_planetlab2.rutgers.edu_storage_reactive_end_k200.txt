@@ -1,0 +1,5 @@
+planetlab2.rutgers.edu 0.000000	0.023438	15	4	0	128
+planetlab2.rutgers.edu 0.000000	0.023438	15	5	0	129
+planetlab2.rutgers.edu 0.000000	0.022388	15	5	0	134
+planetlab2.rutgers.edu 0.000000	0.022388	15	5	2	134
+planetlab2.rutgers.edu 0.923077	0.022388	15	5	65	134

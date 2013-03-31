@@ -1,0 +1,2 @@
+earth.cs.brown.edu 0.000000	0.039735	16	5
+earth.cs.brown.edu 0.410000	0.039735	16	5

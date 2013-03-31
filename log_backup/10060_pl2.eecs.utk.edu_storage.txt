@@ -1,0 +1,4 @@
+pl2.eecs.utk.edu 0.000000	0.139683	10	71
+pl2.eecs.utk.edu 0.000000	0.061453	10	79
+pl2.eecs.utk.edu 0.500000	0.061453	9	79
+pl2.eecs.utk.edu 0.214022	0.061453	9	79

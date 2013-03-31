@@ -1,0 +1,2 @@
+planetlab1.cs.du.edu 0.000000	0.000000	21	0	0	61
+planetlab1.cs.du.edu 0.000000	0.000000	22	0	0	61

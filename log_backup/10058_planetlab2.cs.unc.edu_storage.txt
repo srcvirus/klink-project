@@ -1,0 +1,4 @@
+planetlab2.cs.unc.edu 0.000000	0.089655	15	0
+planetlab2.cs.unc.edu 0.000000	0.089655	19	0
+planetlab2.cs.unc.edu 0.000000	0.089655	20	0
+planetlab2.cs.unc.edu 1.000000	0.089655	20	0

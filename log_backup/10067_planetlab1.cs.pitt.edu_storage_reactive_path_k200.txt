@@ -1,0 +1,2 @@
+planetlab1.cs.pitt.edu 0.000000	0.395604	27	73	0	273
+planetlab1.cs.pitt.edu 0.000000	0.388489	27	78	0	278

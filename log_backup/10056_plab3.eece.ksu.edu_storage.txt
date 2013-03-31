@@ -1,0 +1,3 @@
+plab3.eece.ksu.edu 0.000000	0.000000	5	83
+plab3.eece.ksu.edu 0.003676	0.000000	5	83
+plab3.eece.ksu.edu 0.003636	0.000000	5	84

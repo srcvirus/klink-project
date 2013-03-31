@@ -1,0 +1,13 @@
+planetlab-3.cmcl.cs.cmu.edu_planetlab5.cs.cornell.edu_305 2	33	79.250000	6236	2112
+planetlab5.millennium.berkeley.edu_planetlab5.cs.cornell.edu_309 4	46	63.150000	6256	1088
+planetlab1.temple.edu_planetlab5.cs.cornell.edu_405 3	35	58.300000	6253	1280
+planetlab04.cs.washington.edu_planetlab5.cs.cornell.edu_867 2	25	56.600000	6259	2048
+mtuplanetlab2.cs.mtu.edu_planetlab5.cs.cornell.edu_738 2	23	25.850000	6239	1024
+pluto.cs.brown.edu_planetlab5.cs.cornell.edu_483 2	23	14.950000	6273	1056
+pluto.cs.brown.edu_planetlab5.cs.cornell.edu_510 2	23	14.950000	6288	1056
+pluto.cs.brown.edu_planetlab5.cs.cornell.edu_514 2	23	14.950000	6289	1056
+pluto.cs.brown.edu_planetlab5.cs.cornell.edu_521 2	23	14.950000	6291	1056
+pluto.cs.brown.edu_planetlab5.cs.cornell.edu_531 2	23	14.950000	6293	1056
+pluto.cs.brown.edu_planetlab5.cs.cornell.edu_535 2	23	14.950000	6297	1056
+planetlab-1.cse.ohio-state.edu_planetlab5.cs.cornell.edu_188 4	37	52.448500	6278	3072
+planetlabpc2.upf.edu_planetlab5.cs.cornell.edu_504 4	48	97.436000	6244	2560

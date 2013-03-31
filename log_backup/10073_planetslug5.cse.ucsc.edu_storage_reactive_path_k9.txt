@@ -1,0 +1,5 @@
+planetslug5.cse.ucsc.edu 0.000000	0.024510	9	5	0	204
+planetslug5.cse.ucsc.edu 0.000000	0.024510	9	5	0	207
+planetslug5.cse.ucsc.edu 0.000000	0.024510	8	5	0	207
+planetslug5.cse.ucsc.edu 0.644737	0.024510	9	5	76	207
+planetslug5.cse.ucsc.edu 0.505051	0.024510	8	5	99	207

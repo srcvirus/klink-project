@@ -1,0 +1,5 @@
+planetlabtwo.ccs.neu.edu 0.000000	0.094118	0	29	0	85
+planetlabtwo.ccs.neu.edu 0.000000	0.196013	10	83	0	301
+planetlabtwo.ccs.neu.edu 0.000000	0.189711	10	84	0	311
+planetlabtwo.ccs.neu.edu 0.330935	0.189711	10	84	139	311
+planetlabtwo.ccs.neu.edu 0.321678	0.189711	10	84	143	311

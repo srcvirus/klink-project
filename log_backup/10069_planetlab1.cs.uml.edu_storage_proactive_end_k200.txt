@@ -1,0 +1,2 @@
+planetlab1.cs.uml.edu 0.000000	0.000000	8	0	0	59
+planetlab1.cs.uml.edu 0.288136	0.000000	8	0	59	59

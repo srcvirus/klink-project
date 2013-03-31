@@ -1,0 +1,16 @@
+planetlab1.georgetown.edu_planetlab2.mnlab.cti.depaul.edu_569 1	10	10.700000	S	4512	672
+roam2.cs.ou.edu_planetlab2.mnlab.cti.depaul.edu_3026 2	23	15.495000	S	4442	32
+roam2.cs.ou.edu_planetlab2.mnlab.cti.depaul.edu_3028 2	23	15.495000	S	4454	32
+plab3.eece.ksu.edu_planetlab2.mnlab.cti.depaul.edu_921 2	20	27.700000	S	4447	2304
+plab3.eece.ksu.edu_planetlab2.mnlab.cti.depaul.edu_929 2	20	27.700000	S	4463	2304
+plab3.eece.ksu.edu_planetlab2.mnlab.cti.depaul.edu_931 2	20	27.700000	S	4471	2304
+plab3.eece.ksu.edu_planetlab2.mnlab.cti.depaul.edu_933 2	20	27.700000	S	4475	2304
+plab3.eece.ksu.edu_planetlab2.mnlab.cti.depaul.edu_935 2	20	27.700000	S	4477	2304
+plab3.eece.ksu.edu_planetlab2.mnlab.cti.depaul.edu_939 2	20	27.700000	S	4478	2304
+plab3.eece.ksu.edu_planetlab2.mnlab.cti.depaul.edu_941 2	20	27.700000	S	4479	2304
+planetlabpc2.upf.edu_planetlab2.mnlab.cti.depaul.edu_840 1	14	78.000000	S	4452	2560
+planetlab6.flux.utah.edu_planetlab2.mnlab.cti.depaul.edu_1209 1	14	16.200000	S	4469	96
+planetlab2.cs.pitt.edu_planetlab2.mnlab.cti.depaul.edu_995 3	31	29.445000	S	4456	288
+planetlabpc2.upf.edu_planetlab2.mnlab.cti.depaul.edu_842 1	14	78.000000	S	4494	2560
+roam2.cs.ou.edu_planetlab2.mnlab.cti.depaul.edu_3731 2	22	30.050000	S	4492	32
+roam2.cs.ou.edu_planetlab2.mnlab.cti.depaul.edu_3733 2	22	30.050000	S	4506	32

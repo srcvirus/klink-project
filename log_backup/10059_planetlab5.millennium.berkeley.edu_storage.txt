@@ -1,0 +1,4 @@
+planetlab5.millennium.berkeley.edu 0.000000	0.433071	8	0
+planetlab5.millennium.berkeley.edu 0.000000	0.433071	14	0
+planetlab5.millennium.berkeley.edu 0.000000	0.433071	15	0
+planetlab5.millennium.berkeley.edu 0.000000	0.433071	15	0

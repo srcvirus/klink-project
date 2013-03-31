@@ -1,0 +1,4 @@
+planetlab1.clemson.edu 0.000000	0.000000	16	4	0	94
+planetlab1.clemson.edu 0.000000	0.000000	25	4	0	94
+planetlab1.clemson.edu 0.961538	0.000000	25	4	78	94
+planetlab1.clemson.edu 0.949367	0.000000	25	5	79	95

@@ -1,0 +1,5 @@
+nodea.howard.edu 0.000000	0.000000	26	58	0	156
+nodea.howard.edu 0.000000	0.000000	27	58	0	156
+nodea.howard.edu 0.000000	0.000000	28	58	0	156
+nodea.howard.edu 0.000000	0.000000	28	58	21	156
+nodea.howard.edu 0.431818	0.000000	31	58	132	156

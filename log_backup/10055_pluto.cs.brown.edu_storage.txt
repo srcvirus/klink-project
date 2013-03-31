@@ -1,0 +1,2 @@
+pluto.cs.brown.edu 0.000000	0.010067	10	5
+pluto.cs.brown.edu 0.042553	0.010067	10	5

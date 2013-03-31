@@ -1,0 +1,3 @@
+planetlab05.cs.washington.edu_planetlab4.eecs.umich.edu_600 2	27	54.350000	S	6900	608
+planetlab1.clemson.edu_planetlab4.eecs.umich.edu_612 3	37	79.850000	S	6913	3136
+planetlab-1.cse.ohio-state.edu_planetlab4.eecs.umich.edu_1447 2	21	47.050000	S	6958	3072

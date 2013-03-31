@@ -1,0 +1,4 @@
+salt.planetlab.cs.umd.edu 0.000000	0.000000	8	0	0	83
+salt.planetlab.cs.umd.edu 0.000000	0.000000	9	0	0	83
+salt.planetlab.cs.umd.edu 0.000000	0.000000	9	0	5	83
+salt.planetlab.cs.umd.edu 0.690141	0.000000	8	0	71	83

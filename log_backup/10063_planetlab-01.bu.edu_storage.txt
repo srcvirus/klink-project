@@ -1,0 +1,4 @@
+planetlab-01.bu.edu 0.000000	0.609677	5	0	0	310
+planetlab-01.bu.edu 0.000000	0.605769	5	0	0	312
+planetlab-01.bu.edu 0.488889	0.605769	5	0	90	312
+planetlab-01.bu.edu 0.470149	0.605769	5	0	134	312

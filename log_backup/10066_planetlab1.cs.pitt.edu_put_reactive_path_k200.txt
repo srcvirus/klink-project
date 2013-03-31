@@ -1,0 +1,7 @@
+planetlab2.umassd.edu_planetlab1.cs.pitt.edu_200 2	22	18.200000	1527	288
+node1.planetlab.mathcs.emory.edu_planetlab1.cs.pitt.edu_328 2	15	17.415000	1556	160
+roam2.cs.ou.edu_planetlab1.cs.pitt.edu_553 2	22	35.400000	1529	32
+roam2.cs.ou.edu_planetlab1.cs.pitt.edu_572 2	22	35.400000	1555	32
+roam2.cs.ou.edu_planetlab1.cs.pitt.edu_569 2	22	35.400000	1549	32
+roam2.cs.ou.edu_planetlab1.cs.pitt.edu_581 2	22	35.400000	1573	32
+planetlab6.flux.utah.edu_planetlab1.cs.pitt.edu_295 2	24	41.500000	1514	96

@@ -1,0 +1,2 @@
+planetlab01.sys.virginia.edu_pl1.csl.utoronto.ca_1508 4	61	145.150000	5552	64
+planetlab1.temple.edu_pl1.csl.utoronto.ca_384 3	35	55.150000	5611	1280

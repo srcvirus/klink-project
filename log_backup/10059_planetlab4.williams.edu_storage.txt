@@ -1,0 +1,2 @@
+planetlab4.williams.edu 0.000000	0.056180	20	5
+planetlab4.williams.edu 0.934211	0.056180	20	5

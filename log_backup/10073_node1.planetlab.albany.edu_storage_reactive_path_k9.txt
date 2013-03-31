@@ -1,0 +1,7 @@
+node1.planetlab.albany.edu 0.000000	0.000000	8	1018	0	1113
+node1.planetlab.albany.edu 0.000000	0.000000	8	2744	0	3456
+node1.planetlab.albany.edu 0.000000	0.000000	8	2761	0	3474
+node1.planetlab.albany.edu 0.000000	0.000000	8	2815	0	3550
+node1.planetlab.albany.edu 0.004785	0.000000	8	2817	418	3552
+node1.planetlab.albany.edu 0.000540	0.000000	8	2817	3701	3552
+node1.planetlab.albany.edu 0.000540	0.000000	8	2817	3702	3552

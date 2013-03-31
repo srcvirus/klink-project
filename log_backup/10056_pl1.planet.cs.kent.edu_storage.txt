@@ -1,0 +1,1 @@
+pl1.planet.cs.kent.edu 0.048611	0.058333	5	0

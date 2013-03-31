@@ -1,0 +1,2 @@
+node1.planetlab.mathcs.emory.edu 0.000000	0.001994	5	71
+node1.planetlab.mathcs.emory.edu 0.011000	0.001994	5	71

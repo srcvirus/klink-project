@@ -1,0 +1,4 @@
+planetlab-2.usask.ca 0.000000	0.161290	0	1	0	31
+planetlab-2.usask.ca 0.000000	0.610526	12	5	0	95
+planetlab-2.usask.ca 0.000000	0.610526	12	5	1	95
+planetlab-2.usask.ca 0.906250	0.610526	12	5	64	95

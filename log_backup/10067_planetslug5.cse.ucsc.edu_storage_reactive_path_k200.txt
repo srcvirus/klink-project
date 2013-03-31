@@ -1,0 +1,2 @@
+planetslug5.cse.ucsc.edu 0.000000	0.000000	0	0	0	11
+planetslug5.cse.ucsc.edu 0.000000	0.137615	29	4	0	109

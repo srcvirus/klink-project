@@ -1,0 +1,5 @@
+miranda.planetlab.cs.umd.edu 0.000000	0.011299	28	55	0	177
+miranda.planetlab.cs.umd.edu 0.000000	0.043290	28	81	0	231
+miranda.planetlab.cs.umd.edu 0.000000	0.043290	29	81	0	231
+miranda.planetlab.cs.umd.edu 0.387931	0.043290	30	81	116	231
+miranda.planetlab.cs.umd.edu 0.321429	0.043290	30	81	140	231

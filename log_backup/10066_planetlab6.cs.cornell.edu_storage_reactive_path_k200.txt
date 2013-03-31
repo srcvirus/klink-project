@@ -1,0 +1,5 @@
+planetlab6.cs.cornell.edu 0.000000	0.078431	18	528	0	765
+planetlab6.cs.cornell.edu 0.000000	0.076336	20	548	0	786
+planetlab6.cs.cornell.edu 0.000000	0.076336	20	549	0	788
+planetlab6.cs.cornell.edu 0.080997	0.075282	22	558	642	797
+planetlab6.cs.cornell.edu 0.080997	0.075282	22	563	647	802

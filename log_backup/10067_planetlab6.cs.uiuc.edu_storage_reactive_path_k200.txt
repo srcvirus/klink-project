@@ -1,0 +1,2 @@
+planetlab6.cs.uiuc.edu 0.000000	0.000000	24	0	0	60
+planetlab6.cs.uiuc.edu 0.000000	0.000000	27	0	0	60

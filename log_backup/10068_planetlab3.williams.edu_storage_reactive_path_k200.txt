@@ -1,0 +1,6 @@
+planetlab3.williams.edu 0.000000	0.350746	26	64	0	268
+planetlab3.williams.edu 0.000000	0.404321	26	70	0	324
+planetlab3.williams.edu 0.000000	0.403077	26	70	0	325
+planetlab3.williams.edu 0.000000	0.401840	26	71	0	326
+planetlab3.williams.edu 0.657534	0.401840	29	71	73	326
+planetlab3.williams.edu 0.372093	0.401840	30	71	129	326

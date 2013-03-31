@@ -1,0 +1,4 @@
+planetlab-5.eecs.cwru.edu 0.000000	0.012121	5	0	0	165
+planetlab-5.eecs.cwru.edu 0.000000	0.012121	5	0	0	166
+planetlab-5.eecs.cwru.edu 0.000000	0.012121	5	0	14	166
+planetlab-5.eecs.cwru.edu 0.343066	0.012121	5	0	137	166

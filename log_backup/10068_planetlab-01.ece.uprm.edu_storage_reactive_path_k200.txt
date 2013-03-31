@@ -1,0 +1,8 @@
+planetlab-01.ece.uprm.edu 0.000000	0.000000	24	64	0	156
+planetlab-01.ece.uprm.edu 0.000000	0.011111	24	82	0	180
+planetlab-01.ece.uprm.edu 0.000000	0.011111	25	82	0	180
+planetlab-01.ece.uprm.edu 0.000000	0.011111	25	83	0	181
+planetlab-01.ece.uprm.edu 0.000000	0.011111	25	84	0	182
+planetlab-01.ece.uprm.edu 0.467742	0.011111	32	84	124	182
+planetlab-01.ece.uprm.edu 0.411348	0.011111	32	84	141	182
+planetlab-01.ece.uprm.edu 0.408451	0.011111	32	84	142	182

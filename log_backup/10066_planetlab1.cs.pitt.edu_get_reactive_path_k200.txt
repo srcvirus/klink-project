@@ -1,0 +1,15 @@
+planetlab2.umassd.edu_planetlab1.cs.pitt.edu_899 1	12	10.450000	S	1527	288
+roam2.cs.ou.edu_planetlab1.cs.pitt.edu_2661 1	14	18.850000	S	1529	32
+node1.planetlab.mathcs.emory.edu_planetlab1.cs.pitt.edu_1008 1	8	11.150000	S	1556	160
+roam2.cs.ou.edu_planetlab1.cs.pitt.edu_2684 1	14	18.850000	S	1549	32
+roam2.cs.ou.edu_planetlab1.cs.pitt.edu_2691 1	14	18.850000	S	1555	32
+planetlab04.cs.washington.edu_planetlab1.cs.pitt.edu_1877 2	29	41.850000	S	1546	2048
+planetlab04.cs.washington.edu_planetlab1.cs.pitt.edu_1891 2	29	41.850000	S	1554	2048
+roam2.cs.ou.edu_planetlab1.cs.pitt.edu_2710 1	14	18.850000	S	1573	32
+planetlab04.cs.washington.edu_planetlab1.cs.pitt.edu_1897 2	29	41.850000	S	1560	2048
+planetlab04.cs.washington.edu_planetlab1.cs.pitt.edu_1899 2	29	41.850000	S	1562	2048
+planetlab04.cs.washington.edu_planetlab1.cs.pitt.edu_1903 2	29	41.850000	S	1563	2048
+planetlab04.cs.washington.edu_planetlab1.cs.pitt.edu_1908 2	29	41.850000	S	1566	2048
+planetlab04.cs.washington.edu_planetlab1.cs.pitt.edu_1910 2	29	41.850000	S	1570	2048
+planetlab01.sys.virginia.edu_planetlab1.cs.pitt.edu_2351 2	31	115.500000	S	1548	64
+planetlab01.sys.virginia.edu_planetlab1.cs.pitt.edu_2361 2	31	115.500000	S	1574	64

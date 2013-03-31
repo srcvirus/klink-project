@@ -1,0 +1,4 @@
+osiris.planetlab.cs.umd.edu 0.000000	0.000000	8	0	0	0
+osiris.planetlab.cs.umd.edu 0.000000	0.366667	8	5	0	90
+osiris.planetlab.cs.umd.edu 0.735632	0.366667	7	5	87	90
+osiris.planetlab.cs.umd.edu 0.735632	0.366667	8	5	87	90

@@ -1,0 +1,2 @@
+planetlab1.acis.ufl.edu 0.000000	0.063158	19	0	0	95
+planetlab1.acis.ufl.edu 0.983333	0.063158	19	0	60	95

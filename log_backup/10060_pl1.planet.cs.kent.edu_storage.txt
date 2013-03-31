@@ -1,0 +1,2 @@
+pl1.planet.cs.kent.edu 0.000000	0.014388	10	0
+pl1.planet.cs.kent.edu 0.779412	0.014388	10	0

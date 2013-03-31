@@ -1,0 +1,9 @@
+mtuplanetlab2.cs.mtu.edu_planetlab1.williams.edu_3045 2	32	36.950000	S	6839	1024
+mtuplanetlab2.cs.mtu.edu_planetlab1.williams.edu_3049 2	32	36.950000	S	6844	1024
+mtuplanetlab2.cs.mtu.edu_planetlab1.williams.edu_3191 2	32	36.950000	S	6857	1024
+mtuplanetlab2.cs.mtu.edu_planetlab1.williams.edu_3207 2	32	36.950000	S	6852	1024
+planetlab3.williams.edu_planetlab1.williams.edu_1160 3	40	19.800000	S	6875	544
+node1.planetlab.mathcs.emory.edu_planetlab1.williams.edu_1232 3	40	36.350000	S	6881	160
+mtuplanetlab2.cs.mtu.edu_planetlab1.williams.edu_3250 2	32	36.950000	S	6871	1024
+mtuplanetlab2.cs.mtu.edu_planetlab1.williams.edu_3253 2	32	36.950000	S	6887	1024
+mtuplanetlab2.cs.mtu.edu_planetlab1.williams.edu_3255 2	32	36.950000	S	6899	1024

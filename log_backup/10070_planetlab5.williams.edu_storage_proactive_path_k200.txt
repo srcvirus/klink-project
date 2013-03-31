@@ -1,0 +1,2 @@
+planetlab5.williams.edu 0.000000	0.971014	15	0	0	69
+planetlab5.williams.edu 0.966667	0.971014	15	0	60	69

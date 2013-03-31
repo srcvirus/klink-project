@@ -1,0 +1,4 @@
+planetlab1.poly.edu 0.000000	0.000000	8	0	0	0
+planetlab1.poly.edu 0.000000	0.088608	7	0	0	79
+planetlab1.poly.edu 0.000000	0.088608	8	0	0	79
+planetlab1.poly.edu 0.714286	0.088608	8	0	77	79

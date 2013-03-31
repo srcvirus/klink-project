@@ -1,0 +1,6 @@
+planetlab1.cs.uiuc.edu 0.000000	0.073543	5	500	0	1115
+planetlab1.cs.uiuc.edu 0.000000	0.066182	5	594	0	1239
+planetlab1.cs.uiuc.edu 0.000000	0.066182	5	595	0	1240
+planetlab1.cs.uiuc.edu 0.111314	0.066182	5	595	548	1240
+planetlab1.cs.uiuc.edu 0.082310	0.066182	5	595	814	1240
+planetlab1.cs.uiuc.edu 0.082310	0.066182	5	595	814	1241

@@ -1,0 +1,4 @@
+pl2.eecs.utk.edu_planetlab2.mnlab.cti.depaul.edu_453 3	37	41.865000	4312	224
+planetlab5.millennium.berkeley.edu_planetlab2.mnlab.cti.depaul.edu_368 3	40	78.000000	4349	1088
+planetlab01.sys.virginia.edu_planetlab2.mnlab.cti.depaul.edu_1776 3	34	59.815000	4293	64
+planetlab01.sys.virginia.edu_planetlab2.mnlab.cti.depaul.edu_1780 3	34	59.815000	4307	64

@@ -1,0 +1,4 @@
+planetlab1.jhu.edu 0.000000	0.000000	17	0
+planetlab1.jhu.edu 0.000000	0.000000	18	0
+planetlab1.jhu.edu 0.000000	0.000000	19	0
+planetlab1.jhu.edu 0.986111	0.000000	19	0

@@ -1,0 +1,4 @@
+dplanet2.uoc.edu 0.000000	0.000000	22	0	0	85
+dplanet2.uoc.edu 0.000000	0.022989	22	0	0	87
+dplanet2.uoc.edu 0.000000	0.022989	25	0	0	87
+dplanet2.uoc.edu 1.000000	0.022989	25	0	59	87

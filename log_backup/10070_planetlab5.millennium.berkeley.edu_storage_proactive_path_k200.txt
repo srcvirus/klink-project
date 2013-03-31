@@ -1,0 +1,5 @@
+planetlab5.millennium.berkeley.edu 0.000000	1.072727	15	0	0	55
+planetlab5.millennium.berkeley.edu 2.565217	1.072727	16	0	23	55
+planetlab5.millennium.berkeley.edu 1.035088	1.035088	16	0	57	57
+planetlab5.millennium.berkeley.edu 1.017241	1.000000	16	0	58	59
+planetlab5.millennium.berkeley.edu 1.000000	1.000000	16	0	59	59

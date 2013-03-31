@@ -1,0 +1,4 @@
+planetlabpc1.upf.edu 0.000000	0.473214	5	5	0	224
+planetlabpc1.upf.edu 0.000000	0.460870	5	5	0	230
+planetlabpc1.upf.edu 0.163793	0.460870	5	5	116	230
+planetlabpc1.upf.edu 0.162393	0.460870	5	5	117	230

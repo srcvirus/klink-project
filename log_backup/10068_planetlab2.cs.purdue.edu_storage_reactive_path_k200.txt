@@ -1,0 +1,4 @@
+planetlab2.cs.purdue.edu 0.000000	0.000000	31	5	0	73
+planetlab2.cs.purdue.edu 0.000000	0.000000	34	5	0	73
+planetlab2.cs.purdue.edu 0.000000	0.000000	34	5	2	73
+planetlab2.cs.purdue.edu 0.890625	0.000000	35	5	64	73

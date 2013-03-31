@@ -1,0 +1,5 @@
+planetlab-01.cs.princeton.edu 0.000000	0.968504	9	2	0	127
+planetlab-01.cs.princeton.edu 0.000000	0.532468	9	3	0	231
+planetlab-01.cs.princeton.edu 0.000000	0.530172	9	4	0	232
+planetlab-01.cs.princeton.edu 0.000000	0.527897	9	5	0	233
+planetlab-01.cs.princeton.edu 0.826667	0.527897	9	5	75	233

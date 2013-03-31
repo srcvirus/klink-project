@@ -1,0 +1,3 @@
+planetlab2.cs.ubc.ca 0.000000	0.017857	13	0	0	112
+planetlab2.cs.ubc.ca 0.000000	0.017857	14	0	0	112
+planetlab2.cs.ubc.ca 0.983051	0.017857	14	0	59	112

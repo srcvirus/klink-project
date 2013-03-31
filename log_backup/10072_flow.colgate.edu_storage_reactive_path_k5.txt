@@ -1,0 +1,4 @@
+flow.colgate.edu 0.000000	0.043189	5	516	0	602
+flow.colgate.edu 0.000000	0.028729	5	593	0	905
+flow.colgate.edu 0.000000	0.028729	5	593	1	905
+flow.colgate.edu 0.047363	0.028729	4	593	929	905

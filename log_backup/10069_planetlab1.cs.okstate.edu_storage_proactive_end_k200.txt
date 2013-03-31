@@ -1,0 +1,4 @@
+planetlab1.cs.okstate.edu 0.000000	0.000000	7	2	0	61
+planetlab1.cs.okstate.edu 0.000000	0.000000	7	5	0	71
+planetlab1.cs.okstate.edu 0.338710	0.000000	7	5	62	71
+planetlab1.cs.okstate.edu 0.328125	0.000000	7	5	64	71

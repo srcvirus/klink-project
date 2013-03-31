@@ -1,0 +1,2 @@
+planetlab1.cs.cornell.edu 0.000000	0.131579	5	0
+planetlab1.cs.cornell.edu 0.649123	0.131579	5	0

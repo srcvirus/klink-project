@@ -1,0 +1,12 @@
+plab3.eece.ksu.edu_planetlab1.cnis.nyit.edu_1087 1	12	35.150000	S	8235	2304
+planetlab5.millennium.berkeley.edu_planetlab1.cnis.nyit.edu_899 1	17	42.500000	S	8218	1088
+planetlab2.mnlab.cti.depaul.edu_planetlab1.cnis.nyit.edu_676 1	12	15.750000	S	8207	1664
+planetlab-1.cse.ohio-state.edu_planetlab1.cnis.nyit.edu_1088 1	16	32.000000	S	8236	3072
+planetlab04.cs.washington.edu_planetlab1.cnis.nyit.edu_2736 1	15	40.750000	S	8176	2048
+mtuplanetlab2.cs.mtu.edu_planetlab1.cnis.nyit.edu_2891 1	13	24.450000	S	8181	1024
+mtuplanetlab2.cs.mtu.edu_planetlab1.cnis.nyit.edu_2893 1	13	24.450000	S	8179	1024
+mtuplanetlab2.cs.mtu.edu_planetlab1.cnis.nyit.edu_2895 1	13	24.450000	S	8182	1024
+mtuplanetlab2.cs.mtu.edu_planetlab1.cnis.nyit.edu_2905 1	13	24.450000	S	8183	1024
+mtuplanetlab2.cs.mtu.edu_planetlab1.cnis.nyit.edu_2917 1	13	24.450000	S	8191	1024
+mtuplanetlab2.cs.mtu.edu_planetlab1.cnis.nyit.edu_2962 1	13	24.450000	S	8227	1024
+mtuplanetlab2.cs.mtu.edu_planetlab1.cnis.nyit.edu_2979 1	13	24.450000	S	8245	1024

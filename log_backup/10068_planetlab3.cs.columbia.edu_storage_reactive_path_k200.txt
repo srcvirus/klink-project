@@ -1,0 +1,4 @@
+planetlab3.cs.columbia.edu 0.000000	0.059322	17	0	0	118
+planetlab3.cs.columbia.edu 0.000000	0.142857	17	0	0	133
+planetlab3.cs.columbia.edu 0.000000	0.142857	18	0	0	133
+planetlab3.cs.columbia.edu 1.000000	0.142857	18	0	59	133

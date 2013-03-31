@@ -1,0 +1,10 @@
+planetlab3.eecs.northwestern.edu_planetlab3.eecs.northwestern.edu_540 0	0	0.000000	31818	800
+planetlab6.cs.cornell.edu_planetlab3.eecs.northwestern.edu_834 1	10	16.000000	31486	288
+planetlab1.rutgers.edu_planetlab3.eecs.northwestern.edu_727 1	15	13.450000	31451	544
+planetlab1.rutgers.edu_planetlab3.eecs.northwestern.edu_731 1	15	13.450000	31503	544
+planetlab6.cs.cornell.edu_planetlab3.eecs.northwestern.edu_946 1	10	16.000000	31614	288
+planetlab6.cs.cornell.edu_planetlab3.eecs.northwestern.edu_984 1	10	16.000000	31678	288
+planetlab1.rutgers.edu_planetlab3.eecs.northwestern.edu_747 1	15	13.450000	31632	544
+planetlab6.cs.cornell.edu_planetlab3.eecs.northwestern.edu_1016 1	10	16.000000	31710	288
+planetlab1.rutgers.edu_planetlab3.eecs.northwestern.edu_752 1	15	13.450000	31717	544
+planetlab6.cs.cornell.edu_planetlab3.eecs.northwestern.edu_1029 1	10	16.000000	31726	288

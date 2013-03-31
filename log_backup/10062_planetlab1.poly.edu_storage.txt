@@ -1,0 +1,2 @@
+planetlab1.poly.edu 0.000000	0.000000	5	0
+planetlab1.poly.edu 0.569620	0.000000	5	0

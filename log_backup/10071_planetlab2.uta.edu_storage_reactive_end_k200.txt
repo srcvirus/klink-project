@@ -1,0 +1,4 @@
+planetlab2.uta.edu 0.000000	0.000000	0	2	0	50
+planetlab2.uta.edu 0.000000	0.078431	18	3	0	153
+planetlab2.uta.edu 0.000000	0.077419	18	5	0	155
+planetlab2.uta.edu 0.923077	0.077419	18	5	65	155

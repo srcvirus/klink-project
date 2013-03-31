@@ -1,0 +1,3 @@
+pl2.csl.utoronto.ca 0.000000	0.000000	27	0	0	60
+pl2.csl.utoronto.ca 0.000000	0.000000	28	0	0	60
+pl2.csl.utoronto.ca 0.983051	0.000000	28	0	59	60

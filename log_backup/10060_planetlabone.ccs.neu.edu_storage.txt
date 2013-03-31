@@ -1,0 +1,2 @@
+planetlabone.ccs.neu.edu 0.864865	0.013333	10	0
+planetlabone.ccs.neu.edu 0.853333	0.013333	10	0

@@ -1,0 +1,2 @@
+planetlab2.mnlab.cti.depaul.edu 0.000000	0.000000	17	0	0	72
+planetlab2.mnlab.cti.depaul.edu 1.000000	0.000000	17	0	60	72

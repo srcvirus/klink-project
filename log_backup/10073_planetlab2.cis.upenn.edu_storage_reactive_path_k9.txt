@@ -1,0 +1,6 @@
+planetlab2.cis.upenn.edu 0.000000	0.800000	9	0	0	5
+planetlab2.cis.upenn.edu 0.000000	0.520408	9	0	0	196
+planetlab2.cis.upenn.edu 0.000000	0.507463	9	0	0	201
+planetlab2.cis.upenn.edu 0.000000	0.495146	9	0	0	206
+planetlab2.cis.upenn.edu 0.000000	0.495146	8	0	1	206
+planetlab2.cis.upenn.edu 0.898734	0.495146	9	0	79	206

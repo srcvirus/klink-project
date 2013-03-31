@@ -1,0 +1,2 @@
+planetlab2.cs.colorado.edu 0.000000	0.032967	10	0	0	91
+planetlab2.cs.colorado.edu 0.933333	0.032967	10	0	75	91

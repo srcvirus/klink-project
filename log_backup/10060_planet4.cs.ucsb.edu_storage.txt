@@ -1,0 +1,4 @@
+planet4.cs.ucsb.edu 0.000000	0.000000	10	83
+planet4.cs.ucsb.edu 0.311224	0.000000	10	83
+planet4.cs.ucsb.edu 0.290476	0.000000	10	83
+planet4.cs.ucsb.edu 0.289100	0.000000	10	83

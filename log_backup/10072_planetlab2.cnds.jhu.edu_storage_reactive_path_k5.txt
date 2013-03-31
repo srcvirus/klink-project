@@ -1,0 +1,2 @@
+planetlab2.cnds.jhu.edu 0.000000	0.000000	4	0	0	62
+planetlab2.cnds.jhu.edu 0.096774	0.000000	5	0	62	62

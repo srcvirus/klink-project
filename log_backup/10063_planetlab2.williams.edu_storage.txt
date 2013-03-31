@@ -1,0 +1,2 @@
+planetlab2.williams.edu 0.000000	0.000000	5	0	0	110
+planetlab2.williams.edu 0.420000	0.000000	5	0	100	110

@@ -1,0 +1,14 @@
+planetlab04.cs.washington.edu_planetlab1.mnlab.cti.depaul.edu_956 1	8	22.400000	S	4545	2080
+planetlab04.cs.washington.edu_planetlab1.mnlab.cti.depaul.edu_959 1	8	22.400000	S	4546	2080
+planetlab04.cs.washington.edu_planetlab1.mnlab.cti.depaul.edu_961 1	8	22.400000	S	4547	2080
+planetlab04.cs.washington.edu_planetlab1.mnlab.cti.depaul.edu_963 1	8	22.400000	S	4551	2080
+planetlab04.cs.washington.edu_planetlab1.mnlab.cti.depaul.edu_965 1	8	22.400000	S	4555	2080
+planetlab04.cs.washington.edu_planetlab1.mnlab.cti.depaul.edu_967 1	8	22.400000	S	4563	2080
+planetlab2.cs.cornell.edu_planetlab1.mnlab.cti.depaul.edu_976 2	27	18.500000	S	4583	576
+planetlab04.cs.washington.edu_planetlab1.mnlab.cti.depaul.edu_971 1	8	22.400000	S	4579	2080
+pl2.eecs.utk.edu_planetlab1.mnlab.cti.depaul.edu_1257 4	52	68.625000	S	4542	192
+planetlab7.flux.utah.edu_planetlab1.mnlab.cti.depaul.edu_2616 2	23	31.000000	S	4517	2048
+planetlab6.flux.utah.edu_planetlab1.mnlab.cti.depaul.edu_1207 1	14	16.200000	S	4533	96
+pluto.cs.brown.edu_planetlab1.mnlab.cti.depaul.edu_827 2	27	71.450000	S	4558	1088
+mtuplanetlab2.cs.mtu.edu_planetlab1.mnlab.cti.depaul.edu_1047 2	26	66.350000	S	4527	1056
+planetlab-03.cs.princeton.edu_planetlab1.mnlab.cti.depaul.edu_808 2	17	32.000000	S	4576	80

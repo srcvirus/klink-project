@@ -1,0 +1,7 @@
+plgmu1.ite.gmu.edu 0.000000	0.350711	10	61
+plgmu1.ite.gmu.edu 0.000000	0.337130	10	78
+plgmu1.ite.gmu.edu 0.000000	0.337130	10	79
+plgmu1.ite.gmu.edu 0.314465	0.337130	10	79
+plgmu1.ite.gmu.edu 0.259740	0.337130	10	79
+plgmu1.ite.gmu.edu 0.258621	0.337130	10	79
+plgmu1.ite.gmu.edu 0.256410	0.337130	10	79

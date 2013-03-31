@@ -1,0 +1,5 @@
+planetlab-2.cs.uh.edu 0.000000	0.000000	0	185	0	216
+planetlab-2.cs.uh.edu 0.000000	0.000000	8	593	0	785
+planetlab-2.cs.uh.edu 0.000000	0.000000	9	593	0	785
+planetlab-2.cs.uh.edu 0.000000	0.000000	9	593	54	785
+planetlab-2.cs.uh.edu 0.050314	0.000000	8	593	795	785

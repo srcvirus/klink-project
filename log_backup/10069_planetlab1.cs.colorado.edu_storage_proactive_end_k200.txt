@@ -1,0 +1,2 @@
+planetlab1.cs.colorado.edu 0.000000	0.000000	9	0	0	59
+planetlab1.cs.colorado.edu 0.440678	0.000000	9	0	59	59

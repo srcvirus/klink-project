@@ -1,0 +1,2 @@
+planetlab-2.cmcl.cs.cmu.edu 0.000000	0.003968	5	79
+planetlab-2.cmcl.cs.cmu.edu 0.075472	0.003968	5	79

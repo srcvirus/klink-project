@@ -1,0 +1,5 @@
+planet6.cs.ucsb.edu 0.000000	0.089623	5	78	0	424
+planet6.cs.ucsb.edu 0.000000	0.086560	5	79	0	439
+planet6.cs.ucsb.edu 0.129412	0.086560	5	79	85	439
+planet6.cs.ucsb.edu 0.043956	0.086560	4	79	273	439
+planet6.cs.ucsb.edu 0.041958	0.086560	4	79	286	439

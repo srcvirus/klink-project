@@ -1,0 +1,4 @@
+planetlab4.csail.mit.edu 0.000000	0.654822	14	0	0	197
+planetlab4.csail.mit.edu 0.000000	0.654822	15	0	0	197
+planetlab4.csail.mit.edu 0.000000	0.651515	15	0	0	198
+planetlab4.csail.mit.edu 1.000000	0.651515	15	0	60	198

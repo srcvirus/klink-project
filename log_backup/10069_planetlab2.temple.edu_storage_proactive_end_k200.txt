@@ -1,0 +1,2 @@
+planetlab2.temple.edu 0.000000	0.000000	11	0	0	64
+planetlab2.temple.edu 0.864407	0.000000	11	0	59	64

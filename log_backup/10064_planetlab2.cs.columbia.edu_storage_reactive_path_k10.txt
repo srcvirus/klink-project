@@ -1,0 +1,2 @@
+planetlab2.cs.columbia.edu 0.000000	0.571429	10	5	0	343
+planetlab2.cs.columbia.edu 0.606557	0.571429	10	5	122	343

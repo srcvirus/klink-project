@@ -1,0 +1,6 @@
+planetlab5.eecs.umich.edu 0.000000	0.533981	23	3	0	206
+planetlab5.eecs.umich.edu 0.000000	0.604743	23	4	0	253
+planetlab5.eecs.umich.edu 0.000000	0.608527	24	4	0	258
+planetlab5.eecs.umich.edu 0.000000	0.608527	25	4	0	258
+planetlab5.eecs.umich.edu 0.896552	0.608527	25	4	58	258
+planetlab5.eecs.umich.edu 0.825397	0.608527	26	4	63	258

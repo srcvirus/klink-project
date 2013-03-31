@@ -1,0 +1,4 @@
+planetlab3.eecs.northwestern.edu 0.000000	0.000000	5	5	0	148
+planetlab3.eecs.northwestern.edu 0.000000	0.000000	5	5	0	149
+planetlab3.eecs.northwestern.edu 0.717742	0.000000	5	5	124	149
+planetlab3.eecs.northwestern.edu 0.703704	0.000000	5	5	135	149

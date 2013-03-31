@@ -1,0 +1,10 @@
+planetlab2.rutgers.edu_planetlab5.millennium.berkeley.edu_195 4	53	214.450000	2803	2336
+planetlab7.flux.utah.edu_planetlab5.millennium.berkeley.edu_1427 3	38	59.400000	2807	1024
+planetlab-03.cs.princeton.edu_planetlab5.millennium.berkeley.edu_1597 2	25	53.050000	2813	64
+planetlab-03.cs.princeton.edu_planetlab5.millennium.berkeley.edu_1595 2	25	53.050000	2808	64
+roam2.cs.ou.edu_planetlab5.millennium.berkeley.edu_1569 2	29	84.600000	2819	32
+ricepl-2.cs.rice.edu_planetlab5.millennium.berkeley.edu_483 2	27	55.700000	2818	80
+node1.planetlab.albany.edu_planetlab5.millennium.berkeley.edu_5966 2	25	46.050000	2810	0
+node1.planetlab.albany.edu_planetlab5.millennium.berkeley.edu_5994 2	25	46.050000	2816	0
+planetlab-03.cs.princeton.edu_planetlab5.millennium.berkeley.edu_2837 2	25	53.050000	2801	64
+node1.planetlab.albany.edu_planetlab5.millennium.berkeley.edu_11688 2	25	46.050000	2806	0

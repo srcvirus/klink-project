@@ -1,0 +1,2 @@
+cs-planetlab3.cs.surrey.sfu.ca 0.000000	0.074468	14	0
+cs-planetlab3.cs.surrey.sfu.ca 0.873239	0.074468	14	0

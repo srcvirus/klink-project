@@ -1,0 +1,4 @@
+vn4.cse.wustl.edu 0.000000	0.000000	5	1	0	88
+vn4.cse.wustl.edu 0.000000	0.000000	5	5	0	92
+vn4.cse.wustl.edu 0.674419	0.000000	5	5	86	92
+vn4.cse.wustl.edu 0.648936	0.000000	5	5	94	92

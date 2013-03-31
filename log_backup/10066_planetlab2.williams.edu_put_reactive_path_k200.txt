@@ -1,0 +1,11 @@
+planetlab-1.cse.ohio-state.edu_planetlab2.williams.edu_67 5	55	76.500000	4504	3072
+planetlab04.cs.washington.edu_planetlab2.williams.edu_451 2	28	43.450000	4517	2048
+pluto.cs.brown.edu_planetlab2.williams.edu_421 3	37	82.650000	4527	1056
+planetlab2.mnlab.cti.depaul.edu_planetlab2.williams.edu_250 2	11	11.577500	4571	1664
+planetlab-1.cse.ohio-state.edu_planetlab2.williams.edu_75 5	55	76.500000	4520	3072
+planetlab-1.cse.ohio-state.edu_planetlab2.williams.edu_77 5	55	76.500000	4528	3072
+planetlab-1.cse.ohio-state.edu_planetlab2.williams.edu_81 5	55	76.500000	4538	3072
+planetlab-1.cse.ohio-state.edu_planetlab2.williams.edu_84 5	55	76.500000	4537	3072
+planetlab-1.cse.ohio-state.edu_planetlab2.williams.edu_91 5	55	76.500000	4540	3072
+planetlab-1.cse.ohio-state.edu_planetlab2.williams.edu_92 5	55	76.500000	4536	3072
+planetlab5.millennium.berkeley.edu_planetlab2.williams.edu_278 3	34	78.750000	4558	1088

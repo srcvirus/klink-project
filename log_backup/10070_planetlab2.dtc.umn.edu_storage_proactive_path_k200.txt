@@ -1,0 +1,4 @@
+planetlab2.dtc.umn.edu 0.000000	0.363636	0	1	0	11
+planetlab2.dtc.umn.edu 0.000000	0.794872	12	5	0	78
+planetlab2.dtc.umn.edu 0.000000	0.794872	12	5	1	78
+planetlab2.dtc.umn.edu 0.906250	0.794872	13	5	64	78

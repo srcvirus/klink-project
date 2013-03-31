@@ -1,0 +1,2 @@
+planetlab1.cnis.nyit.edu 0.000000	0.000000	0	0	0	1
+planetlab1.cnis.nyit.edu 0.000000	0.168539	20	0	0	89

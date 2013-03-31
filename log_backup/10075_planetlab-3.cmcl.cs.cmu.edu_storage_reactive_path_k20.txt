@@ -1,0 +1,12 @@
+planetlab-3.cmcl.cs.cmu.edu 0.000000	1.042053	12	114	0	1617
+planetlab-3.cmcl.cs.cmu.edu 0.000000	0.371217	19	335	0	5121
+planetlab-3.cmcl.cs.cmu.edu 0.000000	0.218646	19	469	0	8731
+planetlab-3.cmcl.cs.cmu.edu 0.000000	0.165974	19	603	0	11550
+planetlab-3.cmcl.cs.cmu.edu 0.000000	0.159299	20	669	0	12103
+planetlab-3.cmcl.cs.cmu.edu 0.000000	0.159299	20	672	0	12117
+planetlab-3.cmcl.cs.cmu.edu 0.000000	0.159299	20	672	0	12119
+planetlab-3.cmcl.cs.cmu.edu 0.000000	0.159299	19	672	0	12119
+planetlab-3.cmcl.cs.cmu.edu 0.000000	0.159299	20	672	0	12119
+planetlab-3.cmcl.cs.cmu.edu 0.000000	0.159299	20	672	0	12120
+planetlab-3.cmcl.cs.cmu.edu 0.000000	0.159299	20	673	0	12124
+planetlab-3.cmcl.cs.cmu.edu 0.000000	0.152798	20	714	0	12618

@@ -1,0 +1,2 @@
+planetlab1.netlab.uky.edu 0.000000	0.104167	10	0
+planetlab1.netlab.uky.edu 0.611765	0.104167	10	0

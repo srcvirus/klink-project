@@ -1,0 +1,10 @@
+plgmu2.ite.gmu.edu_plonk.cs.uwaterloo.ca_28 3	43	62.850000	29342	1536
+planetlab2.cs.columbia.edu_plonk.cs.uwaterloo.ca_305 3	43	93.300000	29350	1088
+planetlab2.cs.columbia.edu_plonk.cs.uwaterloo.ca_348 3	43	93.300000	29382	1088
+planetlab1.cs.umass.edu_plonk.cs.uwaterloo.ca_1200 4	53	97.215000	29321	1024
+planetlab1.cs.umass.edu_plonk.cs.uwaterloo.ca_1284 4	53	97.215000	29365	1024
+planetlab1.cs.umass.edu_plonk.cs.uwaterloo.ca_1295 4	53	97.215000	29377	1024
+planetlab1.cs.umass.edu_plonk.cs.uwaterloo.ca_1297 4	53	97.215000	29384	1024
+planetlab1.cs.umass.edu_plonk.cs.uwaterloo.ca_1303 4	53	97.215000	29385	1024
+planetlab1.cs.umass.edu_plonk.cs.uwaterloo.ca_1307 4	53	97.215000	29387	1024
+planetlab1.cs.umass.edu_plonk.cs.uwaterloo.ca_1316 4	53	97.215000	29389	1024

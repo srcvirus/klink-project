@@ -1,0 +1,4 @@
+planetlab-6.ece.iastate.edu 0.000000	0.039474	4	0	0	152
+planetlab-6.ece.iastate.edu 0.000000	0.039474	5	0	0	152
+planetlab-6.ece.iastate.edu 0.000000	0.039474	5	0	4	152
+planetlab-6.ece.iastate.edu 0.551181	0.039474	5	0	127	152

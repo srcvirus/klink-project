@@ -1,0 +1,4 @@
+planetlab03.cs.washington.edu 0.000000	0.028112	4	119
+planetlab03.cs.washington.edu 0.000000	0.066327	5	663
+planetlab03.cs.washington.edu 0.000000	0.066327	5	665
+planetlab03.cs.washington.edu 0.019488	0.066327	5	665

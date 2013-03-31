@@ -1,0 +1,2 @@
+planetlab4.cs.uoregon.edu 0.000000	0.000000	13	0	0	59
+planetlab4.cs.uoregon.edu 0.525424	0.000000	13	0	59	59

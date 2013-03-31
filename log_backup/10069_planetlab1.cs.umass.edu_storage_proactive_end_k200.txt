@@ -1,0 +1,4 @@
+planetlab1.cs.umass.edu 0.000000	0.000000	8	43	0	102
+planetlab1.cs.umass.edu 0.000000	0.000000	8	79	0	138
+planetlab1.cs.umass.edu 0.205128	0.000000	8	79	117	138
+planetlab1.cs.umass.edu 0.173913	0.000000	8	79	138	138

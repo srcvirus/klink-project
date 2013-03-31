@@ -1,0 +1,4 @@
+planetlab1.eecs.umich.edu 0.000000	0.019802	4	4	0	101
+planetlab1.eecs.umich.edu 0.000000	0.018692	5	4	0	107
+planetlab1.eecs.umich.edu 0.526882	0.018692	5	4	93	107
+planetlab1.eecs.umich.edu 0.526882	0.018692	4	4	93	107

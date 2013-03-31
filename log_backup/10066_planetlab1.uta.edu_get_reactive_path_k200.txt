@@ -1,0 +1,12 @@
+planetlab-2.cs.uh.edu_planetlab1.uta.edu_997 1	7	3.350000	S	8536	1152
+flow.colgate.edu_planetlab1.uta.edu_411 1	17	45.600000	S	8530	112
+node1.planetlab.mathcs.emory.edu_planetlab1.uta.edu_1197 1	6	15.250000	S	8483	160
+planetlab5.millennium.berkeley.edu_planetlab1.uta.edu_905 1	13	25.000000	S	8489	1088
+pluto.cs.brown.edu_planetlab1.uta.edu_993 1	13	25.350000	S	8496	1056
+pluto.cs.brown.edu_planetlab1.uta.edu_997 1	13	25.350000	S	8517	1056
+ebb.colgate.edu_planetlab1.uta.edu_1315 1	17	45.700000	S	8546	1536
+mtuplanetlab2.cs.mtu.edu_planetlab1.uta.edu_2926 1	13	24.850000	S	8477	1024
+planetlab2.cs.pitt.edu_planetlab1.uta.edu_987 1	13	22.650000	S	8541	320
+planetlab4.wail.wisc.edu_planetlab1.uta.edu_3777 1	10	13.750000	S	8499	16
+planetlab01.sys.virginia.edu_planetlab1.uta.edu_3240 1	12	145.000000	S	8548	64
+planetlab1.eecs.umich.edu_planetlab1.uta.edu_436 1	10	33.800000	S	8518	2432

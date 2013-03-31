@@ -1,0 +1,10 @@
+planetlab1.rutgers.edu_planetlab1.rutgers.edu_122 0	0	0.000000	22747	544
+planetlab1.rutgers.edu_planetlab1.rutgers.edu_509 0	0	0.000000	23131	544
+planetlab1.rutgers.edu_planetlab1.rutgers.edu_574 0	0	0.000000	23195	544
+planetlab3.eecs.northwestern.edu_planetlab1.rutgers.edu_706 1	15	14.050000	22785	800
+planetlab1.rutgers.edu_planetlab1.rutgers.edu_625 0	0	0.000000	23243	544
+planetlab1.rutgers.edu_planetlab1.rutgers.edu_634 0	0	0.000000	23251	544
+planetlab1.rutgers.edu_planetlab1.rutgers.edu_641 0	0	0.000000	23257	544
+planetlab1.rutgers.edu_planetlab1.rutgers.edu_643 0	0	0.000000	23258	544
+planetlab1.rutgers.edu_planetlab1.rutgers.edu_645 0	0	0.000000	23259	544
+planetlab1.rutgers.edu_planetlab1.rutgers.edu_650 0	0	0.000000	23263	544

@@ -1,0 +1,5 @@
+planet5.cs.ucsb.edu 0.000000	0.000000	20	4	0	73
+planet5.cs.ucsb.edu 0.000000	0.000000	20	5	0	74
+planet5.cs.ucsb.edu 0.000000	0.000000	20	5	0	80
+planet5.cs.ucsb.edu 0.878788	0.000000	21	5	66	80
+planet5.cs.ucsb.edu 0.840580	0.000000	21	5	69	80

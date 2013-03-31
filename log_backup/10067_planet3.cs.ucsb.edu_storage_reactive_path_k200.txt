@@ -1,0 +1,2 @@
+planet3.cs.ucsb.edu 0.000000	0.000000	0	0	0	2
+planet3.cs.ucsb.edu 0.000000	0.672414	21	0	0	58

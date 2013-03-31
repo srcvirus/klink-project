@@ -1,0 +1,5 @@
+planetlab2.cs.columbia.edu 0.000000	0.420168	26	1	0	119
+planetlab2.cs.columbia.edu 0.000000	0.565476	26	3	0	168
+planetlab2.cs.columbia.edu 0.000000	0.562130	26	3	0	169
+planetlab2.cs.columbia.edu 0.967213	0.562130	28	3	61	169
+planetlab2.cs.columbia.edu 0.951613	0.562130	28	3	62	169

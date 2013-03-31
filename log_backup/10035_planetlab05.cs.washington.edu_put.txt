@@ -1,0 +1,10 @@
+planetlab1.cs.umass.edu_planetlab05.cs.washington.edu_129 4	52	81.200000	15319	1024
+planetlab1.cs.umass.edu_planetlab05.cs.washington.edu_142 4	52	81.200000	15335	1024
+planetlab2.cs.columbia.edu_planetlab05.cs.washington.edu_79 3	30	37.770000	15365	1088
+planetlab1.cs.umass.edu_planetlab05.cs.washington.edu_171 4	52	81.200000	15351	1024
+planetlab1.cs.umass.edu_planetlab05.cs.washington.edu_174 4	52	81.200000	15347	1024
+planetlab1.cs.umass.edu_planetlab05.cs.washington.edu_175 4	52	81.200000	15349	1024
+planetlab1.cs.umass.edu_planetlab05.cs.washington.edu_177 4	52	81.200000	15350	1024
+planetlab1.cs.umass.edu_planetlab05.cs.washington.edu_193 4	52	81.200000	15359	1024
+planetlab1.cs.umass.edu_planetlab05.cs.washington.edu_259 4	52	81.200000	15402	1024
+planetlab1.cs.umass.edu_planetlab05.cs.washington.edu_289 4	52	81.200000	15420	1024

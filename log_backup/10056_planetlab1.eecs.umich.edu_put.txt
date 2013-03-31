@@ -1,0 +1,10 @@
+roam2.cs.ou.edu_planetlab1.eecs.umich.edu_2434 3	36	64.400000	6011	32
+node1.planetlab.albany.edu_planetlab1.eecs.umich.edu_2751 2	23	44.650000	6031	0
+planetlab1.cs.uiuc.edu_planetlab1.eecs.umich.edu_1662 3	33	56.600000	6033	128
+node1.planetlab.albany.edu_planetlab1.eecs.umich.edu_2765 2	23	44.650000	6039	0
+node1.planetlab.albany.edu_planetlab1.eecs.umich.edu_2772 2	23	44.650000	6043	0
+node1.planetlab.albany.edu_planetlab1.eecs.umich.edu_2777 2	23	44.650000	6045	0
+roam2.cs.ou.edu_planetlab1.eecs.umich.edu_2436 3	36	64.400000	6028	32
+node1.planetlab.albany.edu_planetlab1.eecs.umich.edu_2779 2	23	44.650000	6046	0
+node1.planetlab.albany.edu_planetlab1.eecs.umich.edu_2781 2	23	44.650000	6047	0
+node1.planetlab.albany.edu_planetlab1.eecs.umich.edu_2785 2	23	44.650000	6049	0

@@ -1,0 +1,4 @@
+planetlab5.csee.usf.edu 0.000000	0.038328	13	3
+planetlab5.csee.usf.edu 0.000000	0.096463	18	5
+planetlab5.csee.usf.edu 0.000000	0.096463	19	5
+planetlab5.csee.usf.edu 0.894737	0.096463	19	5

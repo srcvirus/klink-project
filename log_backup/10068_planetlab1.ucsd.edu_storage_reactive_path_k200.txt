@@ -1,0 +1,4 @@
+planetlab1.ucsd.edu 0.000000	0.000000	0	0	0	1
+planetlab1.ucsd.edu 0.000000	0.202247	25	0	0	89
+planetlab1.ucsd.edu 0.000000	0.202247	26	0	0	89
+planetlab1.ucsd.edu 0.840909	0.202247	26	0	88	89

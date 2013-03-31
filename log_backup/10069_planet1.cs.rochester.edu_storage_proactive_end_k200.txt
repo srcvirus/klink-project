@@ -1,0 +1,2 @@
+planet1.cs.rochester.edu 0.000000	0.000000	7	0	0	59
+planet1.cs.rochester.edu 0.254237	0.000000	7	0	59	59

@@ -1,0 +1,2 @@
+planet12.csc.ncsu.edu 0.000000	0.000000	10	0
+planet12.csc.ncsu.edu 0.027397	0.000000	10	0

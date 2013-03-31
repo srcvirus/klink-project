@@ -1,0 +1,5 @@
+planetlab2.mnlab.cti.depaul.edu 0.000000	0.475207	5	5	0	242
+planetlab2.mnlab.cti.depaul.edu 0.000000	0.475207	4	5	0	242
+planetlab2.mnlab.cti.depaul.edu 0.000000	0.475207	4	5	1	242
+planetlab2.mnlab.cti.depaul.edu 0.608108	0.475207	5	5	74	242
+planetlab2.mnlab.cti.depaul.edu 0.608108	0.475207	4	5	74	242

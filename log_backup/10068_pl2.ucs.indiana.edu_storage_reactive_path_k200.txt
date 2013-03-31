@@ -1,0 +1,4 @@
+pl2.ucs.indiana.edu 0.000000	0.120968	16	0	0	124
+pl2.ucs.indiana.edu 0.000000	0.120968	17	0	0	124
+pl2.ucs.indiana.edu 0.000000	0.120968	17	0	1	124
+pl2.ucs.indiana.edu 0.983333	0.120968	18	0	60	124

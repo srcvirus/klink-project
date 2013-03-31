@@ -1,0 +1,2 @@
+planetlab1.rutgers.edu 0.000000	0.000000	5	0	0	62
+planetlab1.rutgers.edu 0.355932	0.000000	5	0	59	62

@@ -1,0 +1,5 @@
+plgmu1.ite.gmu.edu 0.000000	0.424623	9	63	0	398
+plgmu1.ite.gmu.edu 0.000000	0.408213	9	70	0	414
+plgmu1.ite.gmu.edu 0.000000	0.408213	9	71	0	415
+plgmu1.ite.gmu.edu 0.321429	0.408213	9	71	140	415
+plgmu1.ite.gmu.edu 0.333333	0.408213	9	71	273	415

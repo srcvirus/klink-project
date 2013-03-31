@@ -1,0 +1,5 @@
+mtuplanetlab2.cs.mtu.edu 0.000000	0.000000	12	627	0	789
+mtuplanetlab2.cs.mtu.edu 0.000000	0.000000	18	627	0	789
+mtuplanetlab2.cs.mtu.edu 0.000000	0.000000	18	629	0	791
+mtuplanetlab2.cs.mtu.edu 0.068917	0.000000	21	635	711	797
+mtuplanetlab2.cs.mtu.edu 0.068917	0.000000	21	643	719	805

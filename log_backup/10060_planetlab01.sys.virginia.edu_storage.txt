@@ -1,0 +1,8 @@
+planetlab01.sys.virginia.edu 0.000000	0.422553	10	549
+planetlab01.sys.virginia.edu 0.000000	0.235018	10	561
+planetlab01.sys.virginia.edu 0.000000	0.235018	10	566
+planetlab01.sys.virginia.edu 0.000000	0.235018	10	567
+planetlab01.sys.virginia.edu 0.000000	0.233918	10	569
+planetlab01.sys.virginia.edu 0.089744	0.233918	9	569
+planetlab01.sys.virginia.edu 0.094737	0.233918	9	569
+planetlab01.sys.virginia.edu 0.092920	0.233918	9	569

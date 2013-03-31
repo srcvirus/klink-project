@@ -1,0 +1,5 @@
+planetlab-2.cs.colostate.edu 0.000000	0.000000	0	2	0	13
+planetlab-2.cs.colostate.edu 0.000000	0.000000	16	4	0	81
+planetlab-2.cs.colostate.edu 0.000000	0.000000	16	5	0	82
+planetlab-2.cs.colostate.edu 0.000000	0.000000	17	5	0	82
+planetlab-2.cs.colostate.edu 0.830769	0.000000	17	5	65	82
