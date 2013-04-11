@@ -26,7 +26,7 @@ cat nodes_temp | awk '{len=split($1,array,"."); print $1, $2, $3, array[len-1] m
 
 scp pssh_nodes ../config_project ../imonitorlist_project ../agent_project nodes_project pweb@cn102.cs.uwaterloo.ca:~/klink/pl_deploy
 ssh pweb@cn102.cs.uwaterloo.ca "cd klink/pl_deploy ; ./upload_wrap.sh &"
-scp -i ~/.ssh/id_rsa ../config ../imonitorlist nodes uwaterloo_pweb@plink.cs.uwaterloo.ca:~/
+scp -i ~/.ssh/id_rsa ../config_project ../imonitorlist_project nodes_project uwaterloo_pweb@plink.cs.uwaterloo.ca:~/
 
 #for machine in `cat pssh_nodes`
 #do

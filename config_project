@@ -3,14 +3,14 @@ monitors_file=imonitorlist_project
 seq_file=seq_project
 log_server_name=cn101.cs.uwaterloo.ca
 log_server_user=pweb
-k=20
+k=15
 alpha=0.9
 timeout=5.5
-name_count=1000
+name_count=512969
 retry=10
 check_point_row=100
 cache_storage=path
 cache_type=reactive
-input=s.db.0
+input=e.db.0
 client_listen_port=55000
 
