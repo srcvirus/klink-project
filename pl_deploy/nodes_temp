@@ -8,7 +8,6 @@ planetlab1.cs.uoregon.edu 45231 128.223.8.111
 planetlab1.cs.uiuc.edu 45231 72.36.112.71
 planetlab6.flux.utah.edu 45231 155.98.35.7
 aguila2.lsi.upc.edu 45231 147.83.29.234
-planetlab01.sys.virginia.edu 45231 128.143.6.134
 planetlab03.cs.washington.edu 45231 128.208.4.199
 aguila1.lsi.upc.edu 45231 147.83.29.232
 node1.planetlab.mathcs.emory.edu 45231 170.140.119.69
@@ -48,7 +47,6 @@ planetlab6.csail.mit.edu 45231 128.31.1.16
 vn5.cse.wustl.edu 45231 128.252.19.18
 planetlab1.cs.umass.edu 45231 128.119.41.210
 planetlab4.cs.uoregon.edu 45231 128.223.8.114
-planetlab1.millennium.berkeley.edu 45231 169.229.50.3
 pl2.cs.unm.edu 45231 208.77.77.195
 ebb.colgate.edu 45231 149.43.80.20
 planetlab1.mnlab.cti.depaul.edu 45231 140.192.249.203
@@ -122,5 +120,4 @@ planetlab2.poly.edu 45231 128.238.88.65
 planetlab2.ucsd.edu 45231 132.239.17.225
 planetlab4.cnds.jhu.edu 45231 128.220.231.5
 planetlab2.cs.ubc.ca 45231 142.103.2.2
-planetlab3.cnds.jhu.edu 45231 128.220.231.4
 planetlab3.ucsd.edu 45231 132.239.17.226
