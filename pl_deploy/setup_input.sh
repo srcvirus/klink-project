@@ -18,7 +18,7 @@
 #	echo "$machine 55231 $ip" >> nodes
 #done
 
-scp s.db.0 e.db.0 pweb@cn102.cs.uwaterloo.ca:~/klink/pl_deploy
+scp e.db.0 pweb@cn102.cs.uwaterloo.ca:~/klink/pl_deploy
 ssh pweb@cn102.cs.uwaterloo.ca "cd klink/pl_deploy ; ./upload_input_wrap.sh &"
 #scp -i ~/.ssh/id_rsa ../config ../imonitorlist nodes uwaterloo_pweb@plink.cs.uwaterloo.ca:~/
 

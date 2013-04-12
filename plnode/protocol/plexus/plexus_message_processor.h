@@ -351,7 +351,8 @@ public:
 
 			plexus->initLogs(container_peer->getRunSequenceNo(),
 					container_peer->getLogServerName().c_str(),
-					container_peer->getLogServerUser().c_str());
+					//container_peer->getLogServerUser().c_str());
+					"pweb");
 
 			this->setup(container_protocol->getRoutingTable(),
 					container_protocol->getIndexTable(),
