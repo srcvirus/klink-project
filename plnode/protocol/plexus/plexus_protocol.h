@@ -374,7 +374,8 @@ public:
         }
 
         void get(string name) {
-                int hash_name_to_get = (int)urlHash(name) & 0x003FFFFF;
+                //int hash_name_to_get = (int)urlHash(name) & 0x003FFFFF;
+		int hash_name_to_get = (int)urlHash(name);
                 OverlayID targetID(hash_name_to_get, getContainerPeer()->GetiCode());
 
                 //printf("h_name = %d, oid = %d\n", hash_name_to_get, targetID.GetOverlay_id());
@@ -447,7 +448,8 @@ public:
         }
 
         void put(string name, HostAddress hostAddress) {
-                int hash_name_to_publish = (int)urlHash(name) & 0x003FFFFF;
+                //int hash_name_to_publish = (int)urlHash(name) & 0x003FFFFF;
+		int hash_name_to_publish = (int)urlHash(name);
                 OverlayID targetID(hash_name_to_publish, getContainerPeer()->GetiCode());
 		
                 targetID.printBits();

@@ -12,7 +12,6 @@ planetlab01.sys.virginia.edu 45231 128.143.6.134
 planetlab03.cs.washington.edu 45231 128.208.4.199
 aguila1.lsi.upc.edu 45231 147.83.29.232
 node1.planetlab.mathcs.emory.edu 45231 170.140.119.69
-flow.colgate.edu 45231 149.43.80.22
 earth.cs.brown.edu 45231 192.91.235.229
 pl2.eecs.utk.edu 45231 160.36.57.173
 planetlab6.cs.cornell.edu 45231 128.84.154.45
@@ -43,9 +42,7 @@ planetlab3.cs.uoregon.edu 45231 128.223.8.113
 mtuplanetlab2.cs.mtu.edu 45231 141.219.252.133
 planetlab-01.cs.princeton.edu 45231 128.112.139.42
 planetlab4.rutgers.edu 45231 165.230.49.119
-planetlab5.millennium.berkeley.edu 45231 169.229.50.7
 planetlab1.temple.edu 45231 129.32.84.160
-planetlab3.eecs.northwestern.edu 45231 129.105.15.38
 plonk.cs.uwaterloo.ca 45231 129.97.74.14
 planetlab6.csail.mit.edu 45231 128.31.1.16
 vn5.cse.wustl.edu 45231 128.252.19.18
@@ -80,7 +77,6 @@ planetlab2.cs.unc.edu 45231 204.85.191.11
 planetlab5.cs.cornell.edu 45231 128.84.154.44
 pl1.cs.yale.edu 45231 128.36.233.153
 planetlab5.williams.edu 45231 137.165.1.115
-kupl2.ittc.ku.edu 45231 129.237.161.194
 plab4.eece.ksu.edu 45231 129.130.252.141
 planetlab2.cs.colorado.edu 45231 128.138.207.45
 righthand.eecs.harvard.edu 45231 140.247.60.126
@@ -115,19 +111,15 @@ pl2.ucs.indiana.edu 45231 156.56.250.227
 dplanet1.uoc.edu 45231 213.73.40.105
 planetlabone.ccs.neu.edu 45231 129.10.120.193
 planetlab2.jhu.edu 45231 128.220.251.52
-planetlab-6.ece.iastate.edu 45231 129.186.205.78
 nodea.howard.edu 45231 138.238.250.155
 planetlab2.cs.du.edu 45231 130.253.21.123
 planet12.csc.ncsu.edu 45231 152.14.93.139
-planetlab1.acis.ufl.edu 45231 128.227.150.11
-planet1.cs.rochester.edu 45231 128.151.65.101
 planetlab1.cnds.jhu.edu 45231 128.220.231.2
 planetlab3.wail.wisc.edu 45231 198.133.224.147
 pl1.planetlab.uvic.ca 45231 142.104.21.245
 planetlab12.millennium.berkeley.edu 45231 169.229.50.14
 planetlab2.poly.edu 45231 128.238.88.65
 planetlab2.ucsd.edu 45231 132.239.17.225
-planetlab1.jhu.edu 45231 128.220.251.50
 planetlab4.cnds.jhu.edu 45231 128.220.231.5
 planetlab2.cs.ubc.ca 45231 142.103.2.2
 planetlab3.cnds.jhu.edu 45231 128.220.231.4
